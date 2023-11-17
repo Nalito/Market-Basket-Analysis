@@ -1,8 +1,8 @@
-![](https://github.com/Nalito/Market-Basket-Analysis/blob/main/Images/mba.png)
-
 # Market Basket Analysis with Python
 
 > A project on market basket analysis in Python
+
+![](https://github.com/Nalito/Market-Basket-Analysis/blob/main/Images/mba.png)
 
 # Project Overview
 

@@ -1,4 +1,4 @@
-![](https://github.com/Nalito/Market-Basket-Analysis/blob/main/mba.png)
+![](https://github.com/Nalito/Market-Basket-Analysis/blob/main/Images/mba.png)
 
 # Market Basket Analysis with Python
 

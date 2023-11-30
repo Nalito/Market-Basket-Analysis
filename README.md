@@ -3,6 +3,7 @@
 > A project on market basket analysis in Python
 
 ![](https://github.com/Nalito/Market-Basket-Analysis/blob/main/Images/mba.png)
+![Medium Article](https://medium.com/@ifeoluwaoduwaiye/market-basket-analysis-with-python-and-apriori-algorithm-82cef11fb950)
 
 # Project Overview
 
